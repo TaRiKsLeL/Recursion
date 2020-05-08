@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.exe
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.deps.json
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.runtimeconfig.json
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.runtimeconfig.dev.json
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.dll
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\bin\Debug\netcoreapp3.1\Bag_Task.pdb
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.AssemblyInfo.cs
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.dll
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.pdb
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.genruntimeconfig.cache
+C:\Users\User\source\repos\C#\Bag_Task\Bag_Task\obj\Debug\netcoreapp3.1\Bag_Task.csprojAssemblyReference.cache
